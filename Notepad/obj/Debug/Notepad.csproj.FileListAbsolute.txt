@@ -1,0 +1,34 @@
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\bin\Debug\Notepad.exe
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\bin\Debug\Notepad.pdb
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\bin\Debug\NotepadCore.dll
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\bin\Debug\NotepadCore.pdb
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.Forms.FormAbout.resources
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.Forms.FormReplace.resources
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.MainForm.resources
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.Forms.FormFind.resources
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.exe
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\Notepad\obj\Debug\Notepad.pdb
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\bin\Debug\Notepad.exe
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\bin\Debug\Notepad.pdb
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\bin\Debug\NotepadCore.dll
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\bin\Debug\NotepadCore.pdb
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.Forms.FormAbout.resources
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.Forms.FormReplace.resources
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.MainForm.resources
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.Forms.FormFind.resources
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.exe
+C:\Users\rohan chaudary\Desktop\Notepad C#\Notepad c#\Notepad\obj\Debug\Notepad.pdb

@@ -1,0 +1,6 @@
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.dll
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\bin\Debug\NotepadCore.pdb
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.csproj.AssemblyReference.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.csproj.CoreCompileInputs.cache
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.dll
+C:\Users\rohan chaudary\Downloads\Notepad-Using-CSharp-YT-master\Notepad-Using-CSharp-YT-master\NotepadCore\obj\Debug\NotepadCore.pdb
